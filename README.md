@@ -14,7 +14,7 @@ Before running the project, make sure you have the following:
 ### 1. Clone the repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/image-similarity-api.git
+git clone https://github.com/Meirlen/TemuReversedApi.git
    ```
 
 
